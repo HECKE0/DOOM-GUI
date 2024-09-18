@@ -1201,7 +1201,3 @@ CreateScript("ScriptBlox Searcher",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/chillz-workshop/main/ScriptSearcher"))() -- not made by kosovo this time
 end)
 
-CreateScript("Steal Tycoon Cash",function()
-for f, g in pairs(game:GetService("Workspace"):GetDescendants()) do
-         if g.Name == "Giver" then
-             firetouchinterest(game:GetService("Players").Loc
